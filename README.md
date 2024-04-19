@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./public/images/screenshot.png)
 
 ### Links
 
@@ -46,15 +46,11 @@ Users should be able to:
 
 ### What I learned
 
-
+I learnt to use css grid to determine layouts of elements on website and how to position children within elements.
 
 ### Continued development
 
-
-
-### Useful resources
-
-
+Css grid allows developers to build two-dimensional layouts unlike flexbox and this is a very helpful feature in css. It also avoids extra markup to serve as containers for elements. Moving forward, I think using grid is appropriate for planning and handling layouts.
 
 ## Author
 
